@@ -1,8 +1,5 @@
 # Project Description
-This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MySQL and Postman
-
+This project is homework assignment 2 to setup a sample web page with Flash which integrates with MySQL and Pythin within IntelliJ.
 
 # Postman Screenshot
-![postman_request_output](screenshots/postman.png)
-# SQL Data Screenshot
-![pycharm_data_query](screenshots/query.png)
+![part2_results](screenshots/part2results.png)
